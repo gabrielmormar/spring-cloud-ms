@@ -31,7 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-.metadata
-hr-api-gateway-zuul/mvnw.cmd
-hr-api-gateway-zuul/mvnw
